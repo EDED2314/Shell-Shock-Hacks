@@ -1,0 +1,3 @@
+cd yolov5
+
+python train.py --img 108 --batch 16 --epochs 300 --data data.yaml --weights yolov5m.pt
