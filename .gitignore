@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/games
+/ShellShockersHacks.v1i.yolov5pytorch
+/datasets
